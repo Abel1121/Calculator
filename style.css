@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.calc {
+  width: 500px;
+  background-color: #000000;
+  color: #ffffff;
+}
+.screen {
+  font-size: 40px;
+  font-family: ;
+}
