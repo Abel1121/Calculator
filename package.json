@@ -1,0 +1,23 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "\"# Calculation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abel1121/Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abel1121/Calculator/issues"
+  },
+  "homepage": "https://github.com/Abel1121/Calculator#readme",
+  "devDependencies": {
+    "sass": "^1.23.7"
+  }
+}
