@@ -36,5 +36,29 @@ body {
 .calc-button:active {
   background-color: #bbbcbe;
 }
+.calc-button:last-child {
+  background-color: #df974c;
+}
+.calc-button:last-child:hover {
+  background-color: #dfb07e;
+}
+.calc-button:last-child:active {
+  background-color: #dd8d37;
+}
+
+.double {
+  width: 50%;
+}
+
+.tripple {
+  width: 75%;
+}
+
+.calc-button-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  margin-bottom: 0.5%;
+}
 
 /*# sourceMappingURL=/main.39afc03c.css.map */

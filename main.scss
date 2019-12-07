@@ -34,4 +34,25 @@ body {
   &:active {
     background-color: #bbbcbe;
   }
+  &:last-child {
+    background-color: #df974c;
+    &:hover {
+      background-color: #dfb07e;
+    }
+    &:active {
+      background-color: #dd8d37;
+    }
+  }
+}
+.double {
+  width: 50%;
+}
+.tripple {
+  width: 75%;
+}
+.calc-button-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  margin-bottom: 0.5%;
 }
