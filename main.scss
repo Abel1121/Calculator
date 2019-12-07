@@ -15,7 +15,14 @@ body {
   font-size: 40px;
   font-family: "Courier New", Courier, monospace;
   text-align: right;
-  padding: 20px 5px;
+  padding: 10px 10px 0;
+
+  &_top {
+    @extend .screen;
+    font-size: 20px;
+    padding: 10px 5px 0 0;
+    color: #b3b2b2;
+  }
 }
 .calc-button {
   background-color: #d8d9db;
